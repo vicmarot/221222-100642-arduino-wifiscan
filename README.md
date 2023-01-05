@@ -8,7 +8,7 @@ How to build PlatformIO based project
 
 ```shell
 # Change directory to example
-$ cd platform-espressif8266/examples/arduino-wifiscan
+$ cd platform-espressif8266/examples/SmartPowerStrip
 
 # Build project
 $ pio run
